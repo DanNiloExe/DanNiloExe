@@ -30,16 +30,11 @@ Um curioso e criativo na tecnologia mesclando carreiras, utilizando tudo envolve
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧪 Projetos atuais
+### 🧪 Projetos 
 FlashPoint 🔗 https://danniloexe.github.io/FlashPoint/	Repositório web para resenhar os mais variados tipos de obra como jogos, livros, albuns e filmes, visando além de claro o entretinemento, o treino constante na ampliacação de novas páginas. Utilizando	HTML, CSS e JS.
+Propaganda, Desinformação e Política: Um estudo propagandístico alemão pré Segunda Guerra Mundial 🔗 https://repositorio.ufpe.br/handle/123456789/67417/ Meu TCC que trabalha a desinformação no passado visando cada vez mais a urgência de como a IA pode ser uma arma desinformacional para a sociedade.
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanNiloExe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanNiloExe&layout=compact&theme=dark" />
-</p>
-
 <p align="center">
   <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=DanNiloExe&theme=dark" />
 </p>
