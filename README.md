@@ -46,4 +46,4 @@ Busco oportunidades como **Estagiário de Desenvolvimento** onde eu possa somar 
 ---
 
 ### 📫 Conecte-se comigo quem sabe eu possa fazer algo por você hoje
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-josé-45890b343/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danilojose-dev/))
